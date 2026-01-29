@@ -1,0 +1,14 @@
+[project]
+name = "web-scrapping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bs4>=0.0.2",
+    "flask>=3.1.2",
+    "lxml>=6.0.2",
+    "requests>=2.32.5",
+    "selenium>=4.40.0",
+    "webdriver-manager>=4.0.2",
+]
